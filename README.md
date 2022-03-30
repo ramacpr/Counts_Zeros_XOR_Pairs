@@ -1,5 +1,5 @@
-Counts Zeros Xor Pairs 
-Easy Accuracy: 63.92% Submissions: 8045 Points: 2
+G4G link: https://practice.geeksforgeeks.org/problems/counts-zeros-xor-pairs0349/1 
+Counts Zeros Xor Pairs:
 Given an array A[] of size N. Find the number of pairs (i, j) such that
 Ai XOR Aj = 0, and 1 ≤ i < j ≤ N.
 
